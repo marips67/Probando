@@ -1,7 +1,7 @@
 # Análisis de datos de empleados para RRHH
 ##### El paso a paso de un análisis de los empleados para el departamento de RRHH
 
-### ¿Por qué un tablero para RRHH?
+### ¿Por qué un tablero para RRHH
 
 El capital humano de una empresa es sin duda su recurso mas importante. Representa el principal factor de la producción, siendo la pieza principal en el logro de metas, que conllevan al crecimiento de la empresa.
 Es imprescindible realizar una buena gestión de talento, por lo que la analítica es una herramienta esencial para ayudar a la correcta toma de decisiones. 
@@ -96,7 +96,7 @@ Se ha incluido un mapa para ver de forma rápida la distribución de los emplead
 
 ### Tablero: Detalle Empleados
 
-Accediendo a través del ícono   se puede visualizar la página “Detalle Empleados”. En esta página se puede realizar 4 tipos de filtros distintos:
+Accediendo a través del ícono <img src="https://github.com/marips67/Archivos/blob/main/EjemplosGIT/Detalle.jpg" width="20px" height="20px"> se puede visualizar la página “Detalle Empleados”. En esta página se puede realizar 4 tipos de filtros distintos:
 - **Por Estado:** Es un filtro de selección múltiple
 - **Por edad del empleado:** Es un filtro que permite deslizar la barra para seleccionar un rango de edad
 - **Por posición:** Es un filtro de menú desplegable en el cual se podrán seleccionar múltiples opciones
