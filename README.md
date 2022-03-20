@@ -26,6 +26,8 @@ Con análisis de datos, se pone a disposición del área de RRHH la posibilidad,
 
 ### Fuente de Datos
 
+![](https://github.com/marips67/Archivos/blob/main/EjemplosGIT/Foto3.jpg)
+
 El proyecto se basó en las siguientes tablas.
 
 **Tabla Sueldo:**
